@@ -1,6 +1,6 @@
-# vedas
-repo of vedas import connector vedas from akashaganga link vishnu conciousness import veda 
-knowledge hari om अनुगृह्णाति विष्णु समर्थन वेदान्त ज्ञान अनन्त
+# वेद
+आयात योजक सम्बन्ध विष्णु चेतस् योजक वेद
+विद्या हरि ऊँ अनुगृह्णाति विष्णु समर्थन वेदान्त ज्ञान अनन्त
 
 
 
